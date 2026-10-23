@@ -1,5 +1,5 @@
 <script lang="ts">
-  import tweet from '$lib/tweet.png';
+  import tweet from '#lib/tweet.png';
 
   import { onMount } from 'svelte';
 
